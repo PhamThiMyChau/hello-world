@@ -1,0 +1,3 @@
+class Diem{
+	int hoTen;
+}
